@@ -1,0 +1,1 @@
+This is one of my practice API's that I created using Java and SpringBoot. This is maven project written to store entries of my dog's (Harper) plentiful amount of dog toys in an H2 database. This project was meant as a practice project to better understand how to create REST API's and familarize myself with using SpringBoot.
